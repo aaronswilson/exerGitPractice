@@ -5,6 +5,8 @@
 - [ ] 2. Fork a repository so you can work on your own copy.
 - [ ] 3. Create a "Pull Request" so your changes can be added to the original project.
 
+- done
+
 ## 1. Starting a GitHub repository.
 
 ### Creating the repository on GitHub
